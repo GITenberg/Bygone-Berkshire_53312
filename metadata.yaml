@@ -1,0 +1,37 @@
+_repo: Bygone-Berkshire_53312
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Ditchfield, P. H. (Peter Hampson)
+    aliases:
+    - Ditchfield, Peter H. (Peter Hampson)
+    - Ditchfield, Peter Hampson
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '2767'
+    url: http://www.gutenberg.org/2009/agents/2767
+description: ''
+gutenberg_issued: '2016-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53312'
+  lccn: 02018139
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Berkshire (England) -- History'
+- GITenberg
+tableOfContents: Historic Berkshire, by P.H. Ditchfield -- Windsor Castle, by Evelyn
+  Ingleby -- Wallingford Castle, by J.E. Field -- Cumnor Place and Amy Robsart, by
+  H.J. Reid -- Alfred the Great, by W.H. Thompson -- The Guilds of Berkshire, by P.H.
+  Ditchfield -- The Scouring of the White Horse, by E.R. Gardiner -- The Last of the
+  Abbots -- Siege of Reading -- Reading Abbey -- The First Battle of Newbury, by Edward
+  Lamplough -- The Second Battle of Newbury, by Edward Lamplough -- Binfield and Easthampstead,
+  1700-1716, and the Early Years of Alexander Pope, by C.W. Penny -- Berkshire Words
+  and Phrases, by M.J. Bacon -- Bull-Baiting in Berkshire, by Canon Sturges -- Index,
+  by William Andrews.
+title: Bygone Berkshire
+url: http://www.gutenberg.org/ebooks/53312
